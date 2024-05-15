@@ -1,0 +1,42 @@
+#feature-image {
+    /* Centers the feature image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+    /* Rounded corners */
+    border-radius: 50px;
+    width:500px;
+    height:500px;
+    object-fit: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.section {
+    width: 70%;
+    height: auto;
+    padding: 15px;
+    border: 5px solid gray;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+li {
+    margin-bottom: 0.5rem;    
+}
